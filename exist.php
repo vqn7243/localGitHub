@@ -8,4 +8,6 @@ function fileExists($path){
     return (@fopen($path,"r")==true);
 }
 
+// test github local commit
+
 ?>
